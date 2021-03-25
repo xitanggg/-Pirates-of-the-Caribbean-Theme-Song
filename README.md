@@ -14,9 +14,9 @@ Youtube in action: https://www.youtube.com/watch?v=sjPAj1lXgtk
 
 4. Upload the sketch and enjoy!
 
-## 😎 Vitual testing
+## 😎 Virtual testing
 
-Don't have an Arduino with you right now? No worry. You can test it vitually on my [simulated TinkerCAD circuit](https://www.tinkercad.com/things/f9QN4skaguI-play-pirates-of-the-caribbean-theme-song-on-buzzer).
+Don't have an Arduino with you right now? No worry. You can test it virtually on my [simulated TinkerCAD circuit](https://www.tinkercad.com/things/f9QN4skaguI-play-pirates-of-the-caribbean-theme-song-on-buzzer).
 
 1. Click `Simulate`
 
@@ -36,6 +36,6 @@ This project was first created in 2016. It is recently updated on `2021.03.25`, 
 
 2. `songSpeed` and `wait` are converted to `float` type (Thanks [Andrew Lalis](https://www.youtube.com/channel/UC9X4mx6-ObPUB6-ud2IGAFQ) for catching the bug)
 
-3. `noTone` is used to handle malperformacnce of some Arduinos (Thanks [Anthony Pelletier](https://www.youtube.com/channel/UCezmpHibpkbXa_3wSeJNLAQ) for bringing up this issue)
+3. `noTone` is used to handle malperformance of some Arduinos (Thanks [Anthony Pelletier](https://www.youtube.com/channel/UCezmpHibpkbXa_3wSeJNLAQ) for bringing up this issue)
 
 4. Better coding style, format, variable names... (I have learned a lot more about coding since I first exposed to C++ 5 years ago)
