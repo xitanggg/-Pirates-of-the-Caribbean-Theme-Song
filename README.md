@@ -38,4 +38,6 @@ This project was first created in 2016. It is recently updated on `2021.03.25`, 
 
 3. `noTone` is used to handle malperformance of some Arduinos (Thanks [Anthony Pelletier](https://www.youtube.com/channel/UCezmpHibpkbXa_3wSeJNLAQ) for bringing up this issue)
 
-4. Better coding style, format, variable names... (I have learned a lot more about coding since I first exposed to C++ 5 years ago)
+4. In my previous comment, I said you can only use PWM pins for the buzzer. That is not true and has been corrected. You can use any digital pin `pin 0-13`. The [tone library](https://github.com/bhagman/Tone) uses a hardware timer and a timer interrupt to generate a square wave with different frequency, so it works on any digital pin. Beware that this might interfere with PWM when you use `analogWrite` because PWM also uses a timer.
+
+5. Better coding style, format, variable names... (I have learned a lot more about coding since I first exposed to C++ 5 years ago)
