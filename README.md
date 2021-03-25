@@ -24,7 +24,7 @@ Don't have an Arduino with you right now? No worry. You can test it virtually on
 
 ## 📖 Learn more
 
-Want to learn more about the science behind `sound`, `buzzer`, `Arduino tone library`? Check out [my learning note on TipStory](https://www.tipstory.org/learning/h2lUMccm5MeuSds) where I share a step by step walkthrough of the science and how I made this. I would appreciate a helpful vote and an interesting upvote from you on TipStory.
+Want to learn more about the science behind `sound`, `buzzer`, `Arduino tone library`? Check out [my learning note on TipStory](https://www.tipstory.org/learning/h2lUMccm5MeuSds) where I share a step by step walkthrough of the science and how I made this. I would appreciate a helpful upvote and an interesting upvote from you on TipStory.
 
 🚀Happy engineering and designing!
 
